@@ -1,6 +1,5 @@
 public class Pet {
-    private final String name;
-
+    private String name;
     private boolean clean;
 
     public Pet(String name) {
@@ -19,5 +18,4 @@ public class Pet {
     public void setClean(boolean clean) {
         this.clean = clean;
     }
-
 }
