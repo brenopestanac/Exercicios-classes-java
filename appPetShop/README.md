@@ -1,18 +1,20 @@
-## Getting Started
+## Exercicio feito durante o bootcamp da DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+PetMachine - Simulador de Banho de Pets em Java
 
-## Folder Structure
+Este repositório contém um programa simples em Java que simula uma máquina de banho para pets.
+Ele permite interagir com uma máquina virtual, abastecendo água e shampoo, colocando e retirando pets, dando banho e limpando a máquina.
 
-The workspace contains two folders by default, where:
+📌 Funcionalidades
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Dar banho no pet.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Abastecer a máquina com água.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Abastecer a máquina com shampoo.
 
-## Dependency Management
+Verificar a quantidade de água e shampoo na máquina.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Verificar se há um pet na máquina.
+
+Colocar ou retirar um pet da máquina.
